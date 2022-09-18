@@ -2,7 +2,7 @@
 
 ## Корисні посилання
 
-- **Завдання практикуму**: TBD
+- **Завдання практикуму**: https://docs.google.com/document/d/1m3BGe462vfF2HoQ1ROWJg5gf-HFAnLtEWjgdmc2J_NM/edit?usp=sharing
 - **Вступне відео**:
     - Частина 1: https://www.youtube.com/watch?v=AHJbYRfZ1OQ.
     - Частина 2: https://www.youtube.com/watch?v=QLcotJ0oLVA.
